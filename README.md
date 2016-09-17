@@ -1,6 +1,6 @@
 # GraduateCourses
 
-#### Repository of courses finished as a part of my MS degree. It includes assignments/independent work/projects for the respective courses.
+#### Repository of courses finished as a part of my MS degree or the courses I studied independently. It includes assignments/independent work/projects for the respective courses.
 
 List of courses
 - Business Data Mining (ISYS 650)
