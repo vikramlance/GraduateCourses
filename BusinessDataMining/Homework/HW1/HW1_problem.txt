@@ -1,0 +1,26 @@
+
+INDIVIDUAL HOMEWORK
+(Homework refers to Shumeli et al.’s 2nd Edition Book) 
+
+Data Visualization
+
+Do Problem 3.3 (page 69) - Laptop Sales at a London Computer Chain.  A report needs to be written that contains answers to the two questions (a) and (b) given in the book plus the following –
+
+3.3 Laptop Sales at a London Computer Chain: Bar Charts and Boxplots. The file LaptopSalesJanuary2008.xls contains data for all sales of laptops at a computer chain in London in January 2008. This is a subset of the full dataset that includes data for the entire year.
+(a).   Create a bar chart, showing the average retail price by store. Which store has the highest average? Which has the lowest?
+(b).   To better compare retail prices across stores, create side-by-side boxplots of retail price by store. Now compare the prices in the two stores above. Do you see a difference between their price distributions? Explain.
+
+(c).   Using Excel Descriptive Statistics tab describe your understanding of the data presented to you for this homework.
+
+
+Grading
+•	Write a small report to answer each of these questions.  Make sure to show your work by adding screen shots also.  
+•	Rules:  Page limit: 2-5 pages; font: 12 Times Roman; Spacing: single; Margin: 1” overall
+•	Do not include fluff. 
+•	The report should read well.
+•	Report carries 			….  	3 times 30%
+•	Good writing style 		….	10%
+	
+
+For all homework 
+In case, you are using the web documents, articles or books, make sure to cite them in your paper.  If you are quoting or picking up a sentence or a paragraph from someone’s work, make sure to put that within quotes.  It is illegal and also unethical to plagiarize other people’s work.  I take a very deem view of this and if you get caught, you will be reported to the Dean’s Office and will get an automatic F in the course.
