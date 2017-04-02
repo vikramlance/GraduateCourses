@@ -1,0 +1,50 @@
+ .navi{
+	 
+	       background-color: rgba(145, 85, 167, 1);
+			
+	 
+ }
+.navbar-inverse .navbar-nav>li>a{
+	
+	color:white;
+}
+
+.navbar-inverse .navbar-brand{
+	
+	color:white;
+}
+ .navigation:hover{
+   background-color: #f4511e;
+ 
+ }
+  .navigation:active{
+   background-color: #f4511e;
+ 
+ }
+ .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+	 
+	    background-color: #f4511e;
+
+ }
+    .bg-grey {
+      background-color: rgba(145, 85, 167, 1);
+	  color:white;
+  }
+     .bg-main {
+      background-color: #f6f6f6;
+	  color:#333;
+  }
+  
+    .grey {
+      background-color: rgba(0, 85, 167, 1);
+  }
+  .navbar-default .navbar-text
+  {
+	  	  color:white;
+
+  }
+ .btnn{
+	 
+	 height:70px;
+	 width:200px;
+ }
