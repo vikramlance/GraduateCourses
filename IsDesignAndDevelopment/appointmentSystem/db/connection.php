@@ -1,6 +1,8 @@
 <?php
 //---------------------------mysql db connection ------------//
 
+# give your own credentials here. 
+
 $hostname='localhost';
 $username='root';
 $password='';
